@@ -1,0 +1,16 @@
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2005\Projects\FirefoxLauncherForQuickset\FirefoxLauncherForQuickset\obj\Release\FirefoxLauncherForQuickset.exe
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2005\Projects\FirefoxLauncherForQuickset\FirefoxLauncherForQuickset\obj\Release\FirefoxLauncherForQuickset.pdb
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2005\Projects\FirefoxLauncherForQuickset\FirefoxLauncherForQuickset\bin\Release\FirefoxLauncherForQuickset.exe
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2005\Projects\FirefoxLauncherForQuickset\FirefoxLauncherForQuickset\bin\Release\FirefoxLauncherForQuickset.pdb
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2005\Projects\FirefoxLauncherForQuickset\FirefoxLauncherForQuickset\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2005\Projects\FirefoxLauncherForQuickset\FirefoxLauncherForQuickset\obj\Release\FirefoxLauncherForQuickset.frmMain.resources
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2005\Projects\FirefoxLauncherForQuickset\FirefoxLauncherForQuickset\obj\Release\FirefoxLauncherForQuickset.Properties.Resources.resources
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2005\Projects\FirefoxLauncherForQuickset\FirefoxLauncherForQuickset\obj\Release\FirefoxLauncherForQuickset.csproj.GenerateResource.Cache
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2008\Projects\FirefoxLauncherForQuickset\FirefoxLauncherForQuickset\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2008\Projects\FirefoxLauncherForQuickset\FirefoxLauncherForQuickset\obj\Release\FirefoxLauncherForQuickset.frmMain.resources
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2008\Projects\FirefoxLauncherForQuickset\FirefoxLauncherForQuickset\obj\Release\FirefoxLauncherForQuickset.Properties.Resources.resources
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2008\Projects\FirefoxLauncherForQuickset\FirefoxLauncherForQuickset\obj\Release\FirefoxLauncherForQuickset.csproj.GenerateResource.Cache
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2008\Projects\FirefoxLauncherForQuickset\FirefoxLauncherForQuickset\bin\Release\dmx.exe
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2008\Projects\FirefoxLauncherForQuickset\FirefoxLauncherForQuickset\bin\Release\dmx.pdb
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2008\Projects\FirefoxLauncherForQuickset\FirefoxLauncherForQuickset\obj\Release\dmx.exe
+C:\Documents and Settings\Vortex-5\My Documents\Visual Studio 2008\Projects\FirefoxLauncherForQuickset\FirefoxLauncherForQuickset\obj\Release\dmx.pdb

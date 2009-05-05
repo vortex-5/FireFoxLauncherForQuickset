@@ -1,0 +1,16 @@
+bin\Debug\FirefoxLauncherForQuickset.exe
+bin\Debug\FirefoxLauncherForQuickset.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FirefoxLauncherForQuickset.frmMain.resources
+obj\Debug\FirefoxLauncherForQuickset.Properties.Resources.resources
+obj\Debug\FirefoxLauncherForQuickset.csproj.GenerateResource.Cache
+obj\Debug\FirefoxLauncherForQuickset.exe
+obj\Debug\FirefoxLauncherForQuickset.pdb
+bin\Release\FirefoxLauncherForQuickset.exe
+bin\Release\FirefoxLauncherForQuickset.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\FirefoxLauncherForQuickset.frmMain.resources
+obj\Release\FirefoxLauncherForQuickset.Properties.Resources.resources
+obj\Release\FirefoxLauncherForQuickset.csproj.GenerateResource.Cache
+obj\Release\FirefoxLauncherForQuickset.exe
+obj\Release\FirefoxLauncherForQuickset.pdb
